@@ -1,3 +1,6 @@
+-- Lesson 2: Structured Query Language (SQL)
+-- 3. SQL Query Exploration in Employee Database
+
 -- Create the Departments table
 CREATE TABLE Departments (
     department_id INT PRIMARY KEY,
